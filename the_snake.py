@@ -47,6 +47,7 @@ clock = pygame.time.Clock()
 def main():
     # Инициализация PyGame:
     pygame.init()
+    a = 1
     # Тут нужно создать экземпляры классов.
     ...
 
